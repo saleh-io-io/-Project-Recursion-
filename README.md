@@ -13,3 +13,9 @@ To run any script, use the following command in your terminal:
 ```bash
 node febRec.js
 node merge.js
+```
+## Screen shots
+
+![screenShot](screenshots/Screenshot1.png "Screenshot of  merge sort")
+
+
